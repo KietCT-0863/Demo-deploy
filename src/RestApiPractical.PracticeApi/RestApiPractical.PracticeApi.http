@@ -1,0 +1,6 @@
+@RestApiPractical.PracticeApi_HostAddress = http://localhost:5126
+
+GET {{RestApiPractical.PracticeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
